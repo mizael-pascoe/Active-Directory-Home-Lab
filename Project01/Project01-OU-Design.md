@@ -75,24 +75,24 @@ This design supports:
 
 ### Exhibit 1: Full Active Directory OU Structure
 
-images/p1-01-ad-ou-structure.png
+![Full Active Directory OU Structure](images/p1-01-ad-ou-structure.png)
 
 High-level view of `lab.local` in Active Directory Users and Computers (ADUC), showing the overall OU hierarchy and departmental organization.
 
 ### Exhibit 2: 860Users Hierarchy & User Objects
 
-images/p1-02-860users-ou-structure.png
+![860Users OU Structure](images/p1-02-860users-ou-structure.png)
 
 Detailed view of the `860Users` hierarchy showing departmental user organization for targeted policy application and administrative management.
 
 ### Exhibit 3: 860Workstations Hierarchy
 
-images/p1-03-860workstations-ou-structure.png
+![860Workstations OU Structure](images/p1-03-860workstations-ou-structure.png)
 
 Detailed view of the `860Workstations` hierarchy showing computer objects separated from user accounts to support independent computer-side Group Policy administration.
 
 ### Exhibit 4: Groups OU Hierarchy
 
-images/p1-04-groups-ou-structure.png
+![Groups OU Structure](images/p1-04-groups-ou-structure.png)
 
 View of the `Groups` OU showing separate Global Group and Domain Local Group containers to support RBAC and AGDLP-based access management.
