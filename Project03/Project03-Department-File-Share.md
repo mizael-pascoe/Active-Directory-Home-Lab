@@ -59,30 +59,30 @@ This approach supports:
 
 ### Exhibit 1: Inventory Network Share Configuration
 
-images/p3-01-share-config.png
+![Inventory Network Share Configuration](images/p3-01-share-config.png)
 
 Configuration of the Inventory departmental file share (`\\DC01\Inventory`) hosted on the file server.
 
 ### Exhibit 2: Inventory Share Permissions
 
-images/p3-02-share-permissions.png
+![Inventory Share Permissions](images/p3-02-share-permissions.png)
 
 Share permissions assigned to `DL_Inventory_Share_RW`, with default `Everyone` access removed.
 
 ### Exhibit 3: Inventory NTFS Permissions
 
-images/p3-03-ntfs-permissions.png
+![Inventory NTFS Permissions](images/p3-03-ntfs-permissions.png)
 
 NTFS permissions assigned to `DL_Inventory_Share_RW` to control access to Inventory department files and folders.
 
 ### Exhibit 4: Authorized Access Validation
 
-images/p3-04-authorized-access.png
+![Authorized Access Validation](images/p3-04-authorized-access.png)
 
 Validation showing authorized Inventory user `lab\mperez` successfully accessing and creating files within the Inventory share.
 
 ### Exhibit 5: Unauthorized Access Validation (Least Privilege)
 
-images/p3-05-access-denied.png
+![Unauthorized Access Validation](images/p3-05-access-denied.png)
 
 Validation showing unauthorized user `lab\dgrass` denied access to the Inventory share, confirming proper permission enforcement.
