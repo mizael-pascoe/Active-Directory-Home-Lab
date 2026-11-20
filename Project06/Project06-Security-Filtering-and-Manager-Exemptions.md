@@ -80,7 +80,7 @@ Security Filtering configured for `860Managers Overrides`, targeting `GG_860Mana
 
 ### Exhibit 3: GG_860Managers Membership
 
-![Manager Group Membership](images/p6-03-manager-group-membership.png)
+![Manager Group Membership](images/p6-03-gg-860managers-membership.png)
 
 Membership of `GG_860Managers`, identifying the accounts eligible for manager-specific policy exceptions where the override GPO is in scope.
 
