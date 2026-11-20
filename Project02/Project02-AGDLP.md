@@ -7,13 +7,7 @@ Implemented the AGDLP (Accounts → Global Groups → Domain Local Groups → Pe
 ## Access Flow
 
 ```text
-User
-  ↓
-GG_Inventory_Users
-  ↓
-DL_Inventory_Share_RW
-  ↓
-Inventory Share
+User → GG_Inventory_Users → DL_Inventory_Share_RW → Inventory Share
 ```
 
 ## Objectives
