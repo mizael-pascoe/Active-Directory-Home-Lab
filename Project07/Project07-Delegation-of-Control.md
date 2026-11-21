@@ -61,9 +61,9 @@ By granting only the permissions required for assigned job functions, organizati
 
 ### Exhibit 1: GG_Helpdesk Security Group Membership
 
-![GG_Helpdesk Group Membership](images/p7-01-gg-helpdesk-members.png)
+![GG_Helpdesk Group Membership](images/p7-01-gg-helpdesk-membership.png)
 
-`GG_Helpdesk` global security group showing Helpdesk technician Mike Orrala as d assignment of delegated administrative permissions.
+`GG_Helpdesk` global security group showing Helpdesk technician Mike Orrala as a member, establishing group-based assignment of delegated administrative permissions.
 
 ### Exhibit 2: Delegate Control Wizard Target Selection
 
