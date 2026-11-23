@@ -84,4 +84,6 @@ Validation showing Helpdesk technician Mike Orrala (`lab\morrala`) performing de
 
 ### Exhibit 5: Elevated Administration via RSAT on Workstation02
 
-![Elevated Administration via RSAT](images/p8-strating credential separation and remote Active Directory administration without direct Domain Controller logon.     
+![Elevated Administration via RSAT](images/p8-05-remote-domain-admin-rsat.png)
+
+Elevated Active Directory Users and Computers (ADUC) session launched from `Workstation02` using separate administrative credentials, demonstrating credential separation and remote Active Directory administration without direct Domain Controller logon.
